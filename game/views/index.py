@@ -1,5 +1,5 @@
 from django.shortcuts import render
 
 def index(request):
-    return render(requeset,"multiends/web.html")
+    return render(request,"multiends/web.html")
 
