@@ -1,0 +1,6 @@
+--2022-08-05 14:57:31--  https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_match%2F0%2F11156556256%2F0.jpg
+Resolving gimg2.baidu.com (gimg2.baidu.com)... 112.65.203.36, 2408:870c:1020:1::7041:cb24
+Connecting to gimg2.baidu.com (gimg2.baidu.com)|112.65.203.36|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2022-08-05 14:57:31 ERROR 400: Bad Request.
+
